@@ -18,9 +18,14 @@ Welcome to the C++ STL Complete Guide repository! This repository aims to provid
 
 ## Usage
 
-Clone the repository and explore the directories corresponding to each component of the STL. Each directory contains example code and explanations in Markdown files.
+Clone the repository and explore the directories corresponding to each component of the STL. Each directory contains example code.
 
 ```bash
 git clone https://github.com/yourusername/cpp-stl-complete-guide.git
 
 cd Cpp-STL-Detailed
+```
+
+## Contributions
+- Contributions are open for all of the geeks, fork the repository and make changes and make a pull request.
+- It would be appreciable if you can provide a better example to explain any STL concept with a better example for our growth.
