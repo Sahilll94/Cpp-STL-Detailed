@@ -2,6 +2,8 @@
 
 Welcome to the C++ STL Complete Guide repository! This repository aims to provide a comprehensive reference and guide to the C++ Standard Template Library (STL), covering algorithms, iterators, containers, and functors.
 
+### Kindly ignore the .exe extension files as it is the executable file for each program that is provided in the repo.
+
 ## Features
 
 - Detailed explanations and examples for each STL component.
